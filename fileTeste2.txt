@@ -1,0 +1,2 @@
+sTestando escrita em arquivo.
+Segunda Linha.s

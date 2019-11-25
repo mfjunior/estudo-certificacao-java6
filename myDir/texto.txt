@@ -1,0 +1,2 @@
+Testando escrita no arquivo texto.
+Testanto escrita no arquivo texto na linha 2.

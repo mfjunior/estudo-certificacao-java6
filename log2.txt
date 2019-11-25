@@ -1,0 +1,124 @@
+201.86.91.191 - - [24/Mar/2008:12:39:55 -0400] "GET /1.gif HTTP/1.1" 200 43 "http://www.supragraf.com/" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [24/Mar/2008:12:39:56 -0400] "GET /web_site_lt.gif HTTP/1.1" 200 129 "http://www.supragraf.com/" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [24/Mar/2008:12:39:56 -0400] "GET /web_site_lb.gif HTTP/1.1" 200 127 "http://www.supragraf.com/" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [24/Mar/2008:12:39:57 -0400] "GET /favicon.ico HTTP/1.1" 404 291 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+216.145.17.190 - - [24/Mar/2008:22:27:12 -0400] "GET / HTTP/1.1" 206 1404 "http://www.whois.sc/supragraf.com" "SurveyBot/2.3 (Whois Source)"
+
+201.86.91.191 - - [25/Mar/2008:15:06:11 -0400] "GET /1.gif HTTP/1.1" 200 43 "http://www.supragraf.com/" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:15:06:11 -0400] "GET /web_site_lt.gif HTTP/1.1" 200 129 "http://www.supragraf.com/" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:15:06:12 -0400] "GET /web_site_lb.gif HTTP/1.1" 200 127 "http://www.supragraf.com/" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:15:06:15 -0400] "GET /favicon.ico HTTP/1.1" 404 291 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:15:08:14 -0400] "GET /favicon.ico HTTP/1.1" 404 291 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:10:41 -0400] "GET /favicon.ico HTTP/1.1" 404 291 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:27 -0400] "GET /myadmin/phpmyadmin.css.php?lang=ptbr-iso-8859-1&convcharset=iso-8859-1&collation_connection=utf8_unicode_ci&token=fc5ae5e4d9ed52de9e4014a0c0ccb06e&js_frame=right&nocache=3590828395 HTTP/1.1" 200 20539 "http://supragraf.com/myadmin/" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:28 -0400] "GET /myadmin/themes/original/img/b_info.png HTTP/1.1" 200 234 "http://supragraf.com/myadmin/" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:29 -0400] "GET /myadmin/themes/original/img/b_help.png HTTP/1.1" 200 229 "http://supragraf.com/myadmin/" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:29 -0400] "GET /myadmin/favicon.ico HTTP/1.1" 200 18902 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:38 -0400] "GET /myadmin/index.php?lang=ptbr-iso-8859-1&convcharset=iso-8859-1&collation_connection=utf8_unicode_ci&token=fc5ae5e4d9ed52de9e4014a0c0ccb06e HTTP/1.1" 200 2501 "http://supragraf.com/myadmin/" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:40 -0400] "GET /myadmin/navigation.php?lang=ptbr-utf-8&convcharset=iso-8859-1&collation_connection=utf8_unicode_ci&token=fc5ae5e4d9ed52de9e4014a0c0ccb06e HTTP/1.1" 200 3002 "http://supragraf.com/myadmin/index.php?lang=ptbr-iso-8859-1&convcharset=iso-8859-1&collation_connection=utf8_unicode_ci&token=fc5ae5e4d9ed52de9e4014a0c0ccb06e" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:40 -0400] "GET /myadmin/phpmyadmin.css.php?token=fc5ae5e4d9ed52de9e4014a0c0ccb06e&js_frame=left&nocache=3590828395 HTTP/1.1" 200 4143 "http://supragraf.com/myadmin/navigation.php?lang=ptbr-utf-8&convcharset=iso-8859-1&collation_connection=utf8_unicode_ci&token=fc5ae5e4d9ed52de9e4014a0c0ccb06e" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:42 -0400] "GET /myadmin/js/navigation.js HTTP/1.1" 200 3916 "http://supragraf.com/myadmin/navigation.php?lang=ptbr-utf-8&convcharset=iso-8859-1&collation_connection=utf8_unicode_ci&token=fc5ae5e4d9ed52de9e4014a0c0ccb06e" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:44 -0400] "GET /myadmin/themes/original/img/s_host.png HTTP/1.1" 200 316 "http://supragraf.com/myadmin/phpmyadmin.css.php?token=fc5ae5e4d9ed52de9e4014a0c0ccb06e&js_frame=right&nocache=3590828395" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:44 -0400] "GET /myadmin/themes/original/img/s_asci.png HTTP/1.1" 200 254 "http://supragraf.com/myadmin/phpmyadmin.css.php?token=fc5ae5e4d9ed52de9e4014a0c0ccb06e&js_frame=right&nocache=3590828395" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:42 -0400] "GET /myadmin/js/functions.js HTTP/1.1" 200 40801 "http://supragraf.com/myadmin/navigation.php?lang=ptbr-utf-8&convcharset=iso-8859-1&collation_connection=utf8_unicode_ci&token=fc5ae5e4d9ed52de9e4014a0c0ccb06e" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:45 -0400] "GET /myadmin/themes/original/img/s_status.png HTTP/1.1" 200 313 "http://supragraf.com/myadmin/phpmyadmin.css.php?token=fc5ae5e4d9ed52de9e4014a0c0ccb06e&js_frame=right&nocache=3590828395" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:45 -0400] "GET /myadmin/themes/original/img/s_process.png HTTP/1.1" 200 362 "http://supragraf.com/myadmin/phpmyadmin.css.php?token=fc5ae5e4d9ed52de9e4014a0c0ccb06e&js_frame=right&nocache=3590828395" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:46 -0400] "GET /myadmin/themes/original/img/b_selboard.png HTTP/1.1" 200 274 "http://supragraf.com/myadmin/navigation.php?lang=ptbr-utf-8&convcharset=iso-8859-1&collation_connection=utf8_unicode_ci&token=fc5ae5e4d9ed52de9e4014a0c0ccb06e" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:46 -0400] "GET /myadmin/themes/original/img/b_engine.png HTTP/1.1" 200 362 "http://supragraf.com/myadmin/phpmyadmin.css.php?token=fc5ae5e4d9ed52de9e4014a0c0ccb06e&js_frame=right&nocache=3590828395" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:47 -0400] "GET /myadmin/themes/original/img/b_export.png HTTP/1.1" 200 313 "http://supragraf.com/myadmin/phpmyadmin.css.php?token=fc5ae5e4d9ed52de9e4014a0c0ccb06e&js_frame=right&nocache=3590828395" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:47 -0400] "GET /myadmin/themes/original/img/s_loggoff.png HTTP/1.1" 200 262 "http://supragraf.com/myadmin/phpmyadmin.css.php?token=fc5ae5e4d9ed52de9e4014a0c0ccb06e&js_frame=right&nocache=3590828395" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:47 -0400] "GET /myadmin/themes/original/img/s_theme.png HTTP/1.1" 200 737 "http://supragraf.com/myadmin/phpmyadmin.css.php?token=fc5ae5e4d9ed52de9e4014a0c0ccb06e&js_frame=right&nocache=3590828395" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:48 -0400] "GET /myadmin/themes/original/img/b_home.png HTTP/1.1" 200 370 "http://supragraf.com/myadmin/phpmyadmin.css.php?token=fc5ae5e4d9ed52de9e4014a0c0ccb06e&js_frame=right&nocache=3590828395" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:53 -0400] "GET /myadmin/navigation.php?db=test&token=fc5ae5e4d9ed52de9e4014a0c0ccb06e HTTP/1.1" 200 3614 "http://supragraf.com/myadmin/index.php?db=test&token=fc5ae5e4d9ed52de9e4014a0c0ccb06e" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:54 -0400] "GET /myadmin/themes/original/img/b_props.png HTTP/1.1" 200 294 "http://supragraf.com/myadmin/db_structure.php?db=test&token=fc5ae5e4d9ed52de9e4014a0c0ccb06e" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:54 -0400] "GET /myadmin/themes/original/img/b_search.png HTTP/1.1" 200 605 "http://supragraf.com/myadmin/db_structure.php?db=test&token=fc5ae5e4d9ed52de9e4014a0c0ccb06e" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:11:55 -0400] "GET /myadmin/themes/original/img/error.ico HTTP/1.1" 200 318 "http://supragraf.com/myadmin/phpmyadmin.css.php?token=fc5ae5e4d9ed52de9e4014a0c0ccb06e&js_frame=right&nocache=3590828395" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:16:13:12 -0400] "GET /myadmin/index.php?db=test&token=fc5ae5e4d9ed52de9e4014a0c0ccb06e&old_usr=phpmyadmin HTTP/1.1" 200 13993 "http://supragraf.com/myadmin/navigation.php?db=test&token=fc5ae5e4d9ed52de9e4014a0c0ccb06e" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:18:25:14 -0400] "GET /openwebmail/images/openwebmail.ico HTTP/1.1" 200 790 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:18:25:15 -0400] "GET /openwebmail/images/openwebmail.gif HTTP/1.1" 200 7257 "http://www.supragraf.com/webmail" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:22:58:07 -0400] "GET /favicon.ico HTTP/1.1" 404 291 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:22:58:09 -0400] "GET /web_site_lemon_tree.jpg HTTP/1.1" 200 7319 "http://www.supragraf.com/" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:22:58:09 -0400] "GET /web_site_lt.gif HTTP/1.1" 200 129 "http://www.supragraf.com/" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+201.86.91.191 - - [25/Mar/2008:22:58:10 -0400] "GET /web_site_lb.gif HTTP/1.1" 200 127 "http://www.supragraf.com/" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12"
+
+65.214.44.129 - - [26/Mar/2008:16:57:41 -0400] "GET /robots.txt HTTP/1.0" 404 290 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma; +http://about.ask.com/en/docs/about/webmasters.shtml)"
+
+206.183.1.74 - - [26/Mar/2008:20:08:40 -0400] "GET /robots.txt HTTP/1.0" 404 290 "-" "Mozilla/4.0 (compatible; T-H-U-N-D-E-R-S-T-O-N-E)"
+
+201.86.91.191 - - [27/Mar/2008:09:32:29 -0400] "GET /webmail HTTP/1.1" 200 5831 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13"
+
+201.86.91.191 - - [27/Mar/2008:09:32:30 -0400] "GET /openwebmail/images/backgrounds/Globe.gif HTTP/1.1" 200 8432 "http://www.supragraf.com/webmail" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13"
+
+201.86.91.191 - - [27/Mar/2008:09:32:31 -0400] "GET /openwebmail/images/bg-titleblue.gif HTTP/1.1" 200 1579 "http://www.supragraf.com/webmail" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13"
+
+201.86.91.191 - - [27/Mar/2008:09:32:55 -0400] "GET /cgi-bin/openwebmail/openwebmail.pl?logindomain=www.supragraf.com HTTP/1.1" 200 5831 "http://www.supragraf.com/cgi-bin/openwebmail/openwebmail.pl" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13"
+
+201.86.91.191 - - [27/Mar/2008:09:33:08 -0400] "GET /favicon.ico HTTP/1.1" 404 291 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13"
+
+201.86.91.191 - - [27/Mar/2008:09:58:35 -0400] "GET / HTTP/1.1" 200 1404 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13"
+
+201.86.91.191 - - [27/Mar/2008:09:58:36 -0400] "GET /web_site_lemon_tree.jpg HTTP/1.1" 200 7319 "http://www.supragraf.com/" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13"
+
+201.86.91.191 - - [27/Mar/2008:09:58:36 -0400] "GET /web_site_rt.gif HTTP/1.1" 200 130 "http://www.supragraf.com/" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13"
+
+201.86.91.191 - - [27/Mar/2008:09:58:36 -0400] "GET /web_site_rb.gif HTTP/1.1" 200 127 "http://www.supragraf.com/" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13"
+
+201.86.91.191 - - [27/Mar/2008:11:54:57 -0400] "GET /icons/apache_pb2.gif HTTP/1.1" 200 2414 "http://www.supragraf.com/" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13"
+
+201.86.91.191 - - [27/Mar/2008:11:55:24 -0400] "GET / HTTP/1.1" 403 5044 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13"
+
+201.86.91.191 - - [27/Mar/2008:11:55:52 -0400] "GET / HTTP/1.1" 403 5044 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13"
+
+201.86.91.191 - - [27/Mar/2008:11:55:56 -0400] "GET /index.htm HTTP/1.1" 200 1176 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13"
+
+201.86.91.191 - - [27/Mar/2008:11:56:16 -0400] "GET / HTTP/1.1" 403 5044 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13"
+
+201.86.91.191 - - [27/Mar/2008:11:57:58 -0400] "GET / HTTP/1.1" 200 1176 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13"
+
+201.86.91.191 - - [27/Mar/2008:11:59:08 -0400] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13"
+
+201.86.91.191 - - [27/Mar/2008:11:59:09 -0400] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13"
+
+201.86.91.191 - - [27/Mar/2008:12:00:06 -0400] "GET / HTTP/1.1" 200 1133 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13"
+
+201.86.91.191 - - [27/Mar/2008:12:00:08 -0400] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-BR; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13"
+

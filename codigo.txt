@@ -1,0 +1,8 @@
+class Teste {
+public static void main(String[] args){
+go(); 
+}
+public static go() {
+System.out.println("teste");
+}
+}
